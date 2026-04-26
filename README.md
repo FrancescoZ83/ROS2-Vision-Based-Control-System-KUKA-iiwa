@@ -25,6 +25,7 @@ The system is split into two main layers to ensure flexibility:
 ## 💻 Installation & Usage
 
 ### Setup
+Dockerfile is in this repository if needed.
 ```bash
 # Clone the repository into your ros2_ws/src
 # From ros2_ws
